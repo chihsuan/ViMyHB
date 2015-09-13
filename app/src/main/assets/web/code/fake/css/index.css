@@ -1,0 +1,38 @@
+.title.header {
+  margin-bottom: 4px;
+}
+
+.timeinfo.header {
+  margin-top: 0px;
+  margin-bottom: 4px;
+}
+
+.main.segment {
+  max-width: 1024px;
+  margin: 0px auto;
+}
+
+.notes.segment {
+  max-width: 1024px;
+}
+
+.card {
+  max-width: 240px !important;
+}
+
+.right.button {
+  float: right;
+}
+
+.left.button {
+  float: left;
+}
+
+.pusher {
+    background-color: #F7F7F7 !important;
+}
+
+.layer_title {
+    color: #00B5AD !important;
+}
+

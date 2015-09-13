@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.2//EN" "http://www.openmobilealliance.org/tech/DTD/xhtml-mobile12.dtd">
+<html>
+<head>
+	<title>Twitter Bootstrap jQuery Calendar component</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+	<link rel="stylesheet" href="components/bootstrap2/css/bootstrap.css">
+	<link rel="stylesheet" href="components/bootstrap2/css/bootstrap-responsive.css">
+	<link rel="stylesheet" href="css/calendar.css">
+	<link rel="stylesheet" href="css/semantic.min.css">
+	<link rel="stylesheet" href="css/index.css">
+	<link rel="stylesheet" href="css/check_color.css">
+</head>
+<body>
+<div class="container">
+	<div class="ui inverted labeled icon left inline vertical sidebar menu">
+        <a class="item" href="../">
+            <i class="home icon"></i>
+            首頁 
+        </a>
+        <a class="item layer_title" cate="0" status="0">
+            健康存摺資料呈現
+          <i class="dropdown icon"></i>
+        </a>
+        <a class="item layer_content" href="../fake" cate="0">
+          <i class="block layout icon"></i>
+           個人用藥紀錄 
+        </a>
+        <a class="item layer_content" href="../calendar" cate="0">
+          <i class="calendar icon"></i>
+            個人醫療檢查日曆 
+        </a>
+        <a class="item layer_content" href="../table" cate="0">
+          <i class="unordered list icon"></i>
+            影像或病理檢驗(查)報告 
+        </a>
+        <a class="item layer_content" href="../info" cate="0">
+          <i class="calculator icon"></i>
+            個人就醫統計 
+        </a>
+        <a class="item layer_title" cate="1" open="0">
+            個人健康保健訊息
+          <i class="dropdown icon"></i>
+        </a>
+		<a class="item layer_content" href="../push" cate="1" status="0">
+          <i class="announcement icon"></i>
+            個人化健康訊息 
+        </a>
+    </div>
+    <div class="ui top fixed demo menu">
+      <a class="open item">
+        <i class="sidebar icon"></i>
+        功能
+      </a>
+    </div>
+	<div class="pusher">
+        <div class="floater"></div>
+        <div class="ui basic segment">
+            <h1 class="ui page-header header"></h1>
+        </div>
+        <div class="ui basic segment">
+            <div class="ui control button" data-calendar-nav="next" style="float:right;">
+                Next
+            </div>
+            <div class="ui control button" data-calendar-nav="prev" style="float:left;">
+                Prev
+            </div>
+        </div>
+        <div class="ui basic segment" style="text-align: center;">
+            <div class="ui control button" data-calendar-view="month">
+                Month 
+            </div>
+            <div class="ui control button" data-calendar-view="year">
+                Year 
+            </div>
+        </div>
+        <div class="row">
+            <div id="calendar"></div>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="modal hide fade" id="events-modal">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h3>Event</h3>
+            </div>
+            <div class="modal-body" style="height: 400px">
+            </div>
+            <div class="modal-footer">
+                <a href="#" data-dismiss="modal" class="btn">Close</a>
+            </div>
+        </div>
+
+        <div class="ui basic segment footer">
+            <br>
+            <div class="ui top button">
+                Top
+            </div>
+        </div>
+	</div>
+
+	<script type="text/javascript" src="components/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="components/underscore/underscore-min.js"></script>
+	<script type="text/javascript" src="components/bootstrap2/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="components/jstimezonedetect/jstz.min.js"></script>
+	<script type="text/javascript" src="js/semantic.min.js"></script>
+    <script type="text/javascript" src="js/language/zh-CN.js"></script>
+	<script type="text/javascript" src="js/calendar.js"></script>
+	<script type="text/javascript" src="js/myapp.js"></script>
+
+</div>
+</body>
+</html>

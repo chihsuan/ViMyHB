@@ -1,0 +1,19 @@
+
+.pusher {
+    background-color: #F7F7F7 !important;
+}
+
+.main.segment {
+    /* text-align: center; */
+}
+
+.card {
+    display: block;
+    margin: 0px auto !important;
+    margin-bottom:10px !important;
+}
+
+.layer_title {
+    color: #00B5AD !important;
+}
+

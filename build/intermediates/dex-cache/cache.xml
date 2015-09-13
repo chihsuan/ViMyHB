@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chihsuan/AndroidStudioProjects/MyHealthBank/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/chihsuan/AndroidStudioProjects/MyHealthBank/app/build/intermediates/pre-dexed/release/classes-5456e084036033fd74bc123e42936c3d800559ac.jar" />
+    </item>
+    <item
+        jar="/Users/chihsuan/AndroidStudioProjects/MyHealthBank/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/chihsuan/AndroidStudioProjects/MyHealthBank/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-ca1b59c7efcf91874641e8068910a661c5c61a67.jar" />
+    </item>
+    <item
+        jar="/Users/chihsuan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/chihsuan/AndroidStudioProjects/MyHealthBank/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-81af70bd67ac1f9588d2ee82ff7b00a08a3322a9.jar" />
+    </item>
+    <item
+        jar="/Users/chihsuan/AndroidStudioProjects/MyHealthBank/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/chihsuan/AndroidStudioProjects/MyHealthBank/app/build/intermediates/pre-dexed/release/classes-0d006b59e2a4075d2bf68b5184954ac2813044e8.jar" />
+    </item>
+    <item
+        jar="/Users/chihsuan/AndroidStudioProjects/MyHealthBank/app/libs/httpmime-4.2.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="270386011895bc6c7ee6496fd87511d6a98093c1">
+        <dex dex="/Users/chihsuan/AndroidStudioProjects/MyHealthBank/app/build/intermediates/pre-dexed/release/httpmime-4.2.6-d0e27f9c0b0021150520dee0f67a49d67273ccdf.jar" />
+    </item>
+
+</items>

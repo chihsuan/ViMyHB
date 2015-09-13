@@ -1,0 +1,49 @@
+
+.pusher {
+    background-color: #F7F7F7 !important;
+}
+
+.main.segment {
+    margin: 0px auto !important;
+}
+
+.day.segment {
+    padding: 0px;
+}
+
+.entry.segment {
+    margin: 0px;
+}
+
+.check_time {
+    color: red;
+}
+
+.check_id {
+    color: blue;
+}
+
+.hospital_time {
+    color: green;
+}
+
+.hospital {
+    color: purple;
+}
+
+.upload_time {
+    color: pink;
+}
+
+.content {
+    color: orange;
+}
+
+.main.segment {
+    font-size: 18px;
+}
+
+.layer_title {
+    color: #00B5AD !important;
+}
+

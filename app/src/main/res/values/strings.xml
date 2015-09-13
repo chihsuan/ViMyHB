@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViMyHB</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_qr_reader">個人健康存摺資料上傳</string>
+    <string name="title_activity_first_login">ViMyHB 登入</string>
+    <string name="saved_user_phone_number">user_phone_number</string>
+    <string name="saved_user_ID">user_id</string>
+    <string name="action_switch_user">切換使用者</string>
+    <string name="app_num">app_version</string>
+    <string name="title_activity_SignUp">註冊</string>
+    <string name="action_signOut">登出</string>
+    <string name="isLogin">is_login</string>
+    <string name="saved_user_password">saved_user_password</string>
+
+</resources>

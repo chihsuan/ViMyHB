@@ -1,0 +1,29 @@
+
+.pusher {
+    background-color: #F7F7F7 !important;
+}
+
+.main.segment {
+    margin: 0px auto !important;
+}
+
+.entry.segment {
+    margin: 0px;
+}
+
+.card {
+    display: block;
+    margin: 0px auto !important;
+    margin-bottom:10px !important;
+}
+
+.layer_title {
+    color: #00B5AD !important;
+}
+
+.ui.cube.shape .side,
+.ui.shape.cube {
+    width: 290px;
+    height: 290px;
+    padding: 0;
+}

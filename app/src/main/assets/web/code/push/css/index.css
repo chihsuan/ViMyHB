@@ -1,0 +1,21 @@
+
+.pusher {
+    background-color: #F7F7F7 !important;
+}
+
+.main.segment {
+    margin: 0px auto !important;
+    font-size: 18px;
+}
+
+.day.segment {
+    padding: 0px;
+}
+
+.entry.segment {
+    margin: 0px;
+}
+
+.layer_title {
+    color: #00B5AD !important;
+}

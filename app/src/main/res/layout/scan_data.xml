@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="224dp"
+        android:layout_height="226dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="歡迎使用ViMyHB\n\n裝置尚無發現資料，第一次使用者請點選單「上傳個人健康存摺資料」。
+        \n已於其他裝置上傳資料，請開啟網路重新進入ViMyHB下載個人資料。"
+        android:id="@+id/textView3"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="100dp"
+        android:layout_weight="0.01" />
+</LinearLayout>
